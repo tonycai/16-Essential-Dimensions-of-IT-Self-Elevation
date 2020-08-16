@@ -7,20 +7,20 @@ Preface
 ## 军争，十六篇技术文章中的一篇
 Military Exercises, one of the collections.
 
-# 情报，十六篇技术文章中的一篇
+## 情报，十六篇技术文章中的一篇
 Intelligence, one of the collections.
 
-# 诚实，十六篇技术文章中的一篇
+## 诚实，十六篇技术文章中的一篇
 Integrity, one of the collections.
 
-# 共识，十六篇技术文章中的一篇
+## 共识，十六篇技术文章中的一篇
 Consensus, one of the collections.
 
-# 天赋，十六篇技术文章中的一篇
+## 天赋，十六篇技术文章中的一篇
 Talent, one of the collections.
 
-# 勤奋，十六篇技术文章中的一篇
+## 勤奋，十六篇技术文章中的一篇
 Diligent, one of the collections.
 
-# 全书总结 & 感谢
+## 全书总结 & 感谢
 Conclusion and Thank you for reading
