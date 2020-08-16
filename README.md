@@ -4,38 +4,53 @@
 ## 序言
 Preface
 
-## 军争，十六篇技术文章中的一篇
+## 1. 军争，十六篇技术文章中的一篇
 Military Exercises, one of the collections
 
-## 情报，十六篇技术文章中的一篇
+## 2. 情报，十六篇技术文章中的一篇
 Intelligence, one of the collections
 
-## 诚实，十六篇技术文章中的一篇
+## 3. 诚实，十六篇技术文章中的一篇
 Integrity, one of the collections
 
-## 共识，十六篇技术文章中的一篇
+## 4. 共识，十六篇技术文章中的一篇
 Consensus, one of the collections
 
-## 天赋，十六篇技术文章中的一篇
+## 5. 天赋，十六篇技术文章中的一篇
 Talent, one of the collections
 
-## 勤奋，十六篇技术文章中的一篇
+## 6. 勤奋，十六篇技术文章中的一篇
 * [Diligent, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Diligent-one-of-the-collections)
 
-## 管理，十六篇技术文章中的一篇
+## 7. 管理，十六篇技术文章中的一篇
 Management, one of the collections
 
-## 安全，十六篇技术文章中的一篇
+## 8. 安全，十六篇技术文章中的一篇
 Security, one of the collections
 
-## 网络，十六篇技术文章中的一篇
+## 9. 网络，十六篇技术文章中的一篇
 Network, one of the collections
 
-## 政争，十六篇技术文章中的一篇
+## 10. 政争，十六篇技术文章中的一篇
 Political Sense, one of the collections
 
-## 架构，十六篇技术文章中的一篇
+## 11. 架构，十六篇技术文章中的一篇
 IT Infrastructure, one of the collections
+
+## 12. 速度，十六篇技术文章中的一篇
+Speed, one of the collections
+
+## 13. 服务，十六篇技术文章中的一篇
+Service, one of the collections
+
+## 14. 故障，十六篇技术文章中的一篇
+Breakdown, one of the collections
+
+## 15. 大数据，十六篇技术文章中的一篇
+Big Data, one of the collections
+
+## 16. 区块链，十六篇技术文章中的一篇
+Blockchain, one of the collections
 
 
 ## 全书总结 & 感谢
