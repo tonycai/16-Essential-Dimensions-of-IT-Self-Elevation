@@ -17,11 +17,26 @@ Integrity, one of the collections
 Consensus, one of the collections
 
 ## 天赋，十六篇技术文章中的一篇
-Talent, one of the collections.
+Talent, one of the collections
 
 ## 勤奋，十六篇技术文章中的一篇
 * [Diligent, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Diligent-one-of-the-collections)
-* [勤奋，十六篇技术文章中的一篇](https://github.com/tonycai/crawler/wiki/Diligent-one-of-the-collections)
+
+## 管理，十六篇技术文章中的一篇
+Management, one of the collections
+
+## 安全，十六篇技术文章中的一篇
+Security, one of the collections
+
+## 网络，十六篇技术文章中的一篇
+Network, one of the collections
+
+## 政争，十六篇技术文章中的一篇
+Political Sense, one of the collections
+
+## 架构，十六篇技术文章中的一篇
+IT Infrastructure, one of the collections
+
 
 ## 全书总结 & 感谢
 Conclusion and Thank you for reading
