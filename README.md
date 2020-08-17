@@ -4,23 +4,23 @@
 ## 序言
 Preface
 
-## 1. 军争，十六篇技术文章中的一篇
-Military Exercises, one of the collections
+## 1. 勤奋，十六篇技术文章中的一篇
+* [Diligent, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Diligent-one-of-the-collections)
 
-## 2. 情报，十六篇技术文章中的一篇
-Intelligence, one of the collections
-
-## 3. 诚实，十六篇技术文章中的一篇
+## 2. 诚实，十六篇技术文章中的一篇
 Integrity, one of the collections
+
+## 3. 天赋，十六篇技术文章中的一篇
+Talent, one of the collections
 
 ## 4. 共识，十六篇技术文章中的一篇
 Consensus, one of the collections
 
-## 5. 天赋，十六篇技术文章中的一篇
-Talent, one of the collections
+## 5. 军争，十六篇技术文章中的一篇
+Military Exercises, one of the collections
 
-## 6. 勤奋，十六篇技术文章中的一篇
-* [Diligent, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Diligent-one-of-the-collections)
+## 6. 情报，十六篇技术文章中的一篇
+Intelligence, one of the collections
 
 ## 7. 管理，十六篇技术文章中的一篇
 Management, one of the collections
