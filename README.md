@@ -5,7 +5,7 @@
 Preface
 
 ## 1. 勤奋，十六篇技术文章中的一篇
-* [Diligent, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Diligent-one-of-the-collections)
+[Diligent, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Diligent-one-of-the-collections)
 
 ## 2. 诚实，十六篇技术文章中的一篇
 Integrity, one of the collections
