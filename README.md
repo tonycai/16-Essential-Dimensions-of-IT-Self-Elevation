@@ -16,35 +16,35 @@ Talent, one of the collections
 ## 4. 共识，十六篇技术文章中的一篇
 Consensus, one of the collections
 
-## 5. 军争，十六篇技术文章中的一篇
-Military Exercises, one of the collections
-
-## 6. 情报，十六篇技术文章中的一篇
-Intelligence, one of the collections
-
-## 7. 管理，十六篇技术文章中的一篇
-Management, one of the collections
-
-## 8. 安全，十六篇技术文章中的一篇
-Security, one of the collections
-
-## 9. 网络，十六篇技术文章中的一篇
-Network, one of the collections
-
-## 10. 政争，十六篇技术文章中的一篇
-Political Sense, one of the collections
-
-## 11. 架构，十六篇技术文章中的一篇
+## 5. 架构，十六篇技术文章中的一篇
 IT Infrastructure, one of the collections
 
-## 12. 速度，十六篇技术文章中的一篇
+## 6. 速度，十六篇技术文章中的一篇
 Speed, one of the collections
 
-## 13. 服务，十六篇技术文章中的一篇
+## 7. 服务，十六篇技术文章中的一篇
 Service, one of the collections
 
-## 14. 故障，十六篇技术文章中的一篇
+## 8. 故障，十六篇技术文章中的一篇
 Breakdown, one of the collections
+
+## 9. 安全，十六篇技术文章中的一篇
+Security, one of the collections
+
+## 10. 网络，十六篇技术文章中的一篇
+Network, one of the collections
+
+## 11. 管理，十六篇技术文章中的一篇
+Management, one of the collections
+
+## 12. 军争，十六篇技术文章中的一篇
+Military Exercises, one of the collections
+
+## 13. 情报，十六篇技术文章中的一篇
+Intelligence, one of the collections
+
+## 14. 政争，十六篇技术文章中的一篇
+Political Sense, one of the collections
 
 ## 15. 大数据，十六篇技术文章中的一篇
 Big Data, one of the collections
