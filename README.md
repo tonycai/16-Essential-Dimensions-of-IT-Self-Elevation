@@ -44,7 +44,7 @@ Security, one of the collections
 Network, one of the collections
 
 ## 11. 管理
-Management, one of the collections
+[Management, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Management-one-of-the-collections)
 
 ## 12. 军争
 Military Exercises, one of the collections
