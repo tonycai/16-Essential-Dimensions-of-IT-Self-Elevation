@@ -13,52 +13,52 @@
 
 
 
-## 1. 勤奋，十六篇技术文章中的一篇
+## 1. 勤奋
 [Diligent, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Diligent-one-of-the-collections)
 
-## 2. 诚实，十六篇技术文章中的一篇
+## 2. 诚实
 Integrity, one of the collections
 
-## 3. 天赋，十六篇技术文章中的一篇
+## 3. 天赋
 Talent, one of the collections
 
-## 4. 共识，十六篇技术文章中的一篇
+## 4. 共识
 Consensus, one of the collections
 
-## 5. 架构，十六篇技术文章中的一篇
+## 5. 架构
 IT Infrastructure, one of the collections
 
-## 6. 速度，十六篇技术文章中的一篇
+## 6. 速度
 Speed, one of the collections
 
-## 7. 服务，十六篇技术文章中的一篇
+## 7. 服务
 Service, one of the collections
 
-## 8. 故障，十六篇技术文章中的一篇
+## 8. 故障
 Breakdown, one of the collections
 
-## 9. 安全，十六篇技术文章中的一篇
+## 9. 安全
 Security, one of the collections
 
-## 10. 网络，十六篇技术文章中的一篇
+## 10. 网络
 Network, one of the collections
 
-## 11. 管理，十六篇技术文章中的一篇
+## 11. 管理
 Management, one of the collections
 
-## 12. 军争，十六篇技术文章中的一篇
+## 12. 军争
 Military Exercises, one of the collections
 
-## 13. 情报，十六篇技术文章中的一篇
+## 13. 情报
 Intelligence, one of the collections
 
-## 14. 政争，十六篇技术文章中的一篇
+## 14. 政争
 Political Sense, one of the collections
 
-## 15. 大数据，十六篇技术文章中的一篇
+## 15. 大数据
 Big Data, one of the collections
 
-## 16. 区块链，十六篇技术文章中的一篇
+## 16. 区块链
 Blockchain, one of the collections
 
 
