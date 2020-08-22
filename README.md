@@ -23,8 +23,8 @@ Talent, one of the collections
 ## 4. 共识
 Consensus, one of the collections
 
-## 5. 架构
-IT Infrastructure, one of the collections
+## 5. 时间
+Time, one of the collections
 
 ## 6. 速度
 Speed, one of the collections
