@@ -26,8 +26,8 @@ Consensus, one of the collections
 ## 5. 时间
 Time, one of the collections
 
-## 6. 速度
-Speed, one of the collections
+## 6. 自律
+[Self-discipline, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Self-discipline-one-of-the-collections)
 
 ## 7. 服务
 Service, one of the collections
