@@ -70,5 +70,5 @@ Conclusion and Thank you for reading
 
 ## 赞助（Donation）
 
-- BTC: -
-- ETH: -
+- BTC: 1FrpJXUQDrtEQRGFBf7Ag1LsvjaUfZJqVA
+- ETH: 0xB8198455c0F69DD7C7454cf68a6C36C569a913d5
