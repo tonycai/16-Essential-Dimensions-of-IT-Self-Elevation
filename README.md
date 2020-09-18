@@ -29,8 +29,8 @@ Time, one of the collections
 ## 6. 自律
 [Self-discipline, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Self-discipline-one-of-the-collections)
 
-## 7. 服务
-Service, one of the collections
+## 7. 周易
+Changes, one of the collections
 
 ## 8. 故障
 Breakdown, one of the collections
