@@ -57,7 +57,8 @@ Political Sense, one of the collections
 Big Data, one of the collections
 
 ## 16. 区块链
-Blockchain, one of the collections
+[Blockchain, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/Blockchain-one-of-the-collections)
+
 
 
 ## 全书总结 & 感谢
