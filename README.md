@@ -43,6 +43,7 @@ Network, one of the collections
 
 ## 11. 管理
 [Management, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Management-one-of-the-collections)
+
 [Management, one of the collections (english version)](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Management-one-of-the-collections-englishversion)
 
 ## 12. 军争
