@@ -10,6 +10,10 @@
 首先简单介绍一下写这本书的缘起，2016年我就已经产生写一本书的想法，计划用3万字来记录分享我在IT技术行业16年的从业经历的收获和感悟，我会从16个层面总结分析如何成为行业专家的人生目标和能力修养规划？其中必须要具备和加强的一些个人特质和行业机遇洞察能力。希望能从社会学、历史、哲学和计算科学层面，思考整理分享一些有深度的内容。同时，要感谢在我学习成长过程中帮助过我的朋友和师长，我也会在写作过程中陆续介绍与他们发生的故事。
 。。。
 
+Let me start by sharing a little about the inspiration behind this book. Back in 2016, I first had the idea to write it—a 30,000-word journey to reflect on and share the lessons and insights from my 16 years in the IT industry. Through 16 key perspectives, I aim to explore how to chart a path toward becoming an expert in the field, including the skills, mindset, and personal growth needed along the way. I’ll highlight essential traits to develop and ways to sharpen your ability to recognize industry opportunities.
+
+My hope is to weave in thought-provoking ideas from sociology, history, philosophy, and computer science to create something meaningful. Along the way, I must express my gratitude to the friends and mentors who supported me in my learning and growth—many of whom I’ll introduce through the stories we’ve shared.
+
 
 ## 1. 勤奋
 [Diligent, one of the collections](https://github.com/tonycai/16-Essential-Dimensions-of-IT-Self-Elevation/wiki/Diligent-one-of-the-collections)
